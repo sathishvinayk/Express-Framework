@@ -1,2 +1,2 @@
 # Express-Framework
-Exploring Express frameworj
+Exploring Express framework
